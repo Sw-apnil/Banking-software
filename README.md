@@ -5,8 +5,6 @@
 
 1. ⚙️ [Tech Stack](#tech-stack)
 2. 🔋 [Features](#features)
-3. 🤸 [Quick Start](#quick-start)
-4. 🕸️ [Code Snippets to Copy](#snippets) 
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
